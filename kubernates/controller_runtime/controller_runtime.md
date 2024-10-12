@@ -136,7 +136,7 @@ GVR` 与 `GVK` 通过REST映射可进行转化。
 
 #### **Schema**
 
-源码包地址： kubernetes/kubernetes/blob/master/staging/src/k8s.io/apimachinery/pkg/runtime/scheme.go
+源码包地址： https://github.com/kubernetes/apimachinery/blob/master/pkg/runtime/scheme.go
 
 schema 即 k8s 集群资源的规范定义和元数据的集合
 
