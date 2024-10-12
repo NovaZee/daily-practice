@@ -163,4 +163,4 @@ Kubernetes 的 API Schema 还具有灵活性和可扩展性。随着 Kubernetes 
 - `metav1.TypeMeta` 实现了`GetObjectKind()` ；`metav1.ObjectMeta` 实现了`DeepCopyinfo=()`，`DeepCopy()` ，还需要实现`DeepCopyObject()`
 - 最后注册资源到 schema 中`k8s.io/api/apps/v1/register.go`
 
-### **controller-runtime **
+### controller-runtime 
